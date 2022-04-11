@@ -45,11 +45,11 @@
 							"port": "8080",
 							"path": [
 								"creditCard",
-								":issuer=all"
+								":issuer=all2"
 							],
 							"variable": [
 								{
-									"key": "issuer=all",
+									"key": "issuer=all2",
 									"value": null
 								}
 							]
