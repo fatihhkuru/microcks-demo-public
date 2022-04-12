@@ -37,7 +37,7 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:8080/creditCard/:issuer=all2",
+							"raw": "http://localhost:8080/creditCard/:issuer=all3",
 							"protocol": "http",
 							"host": [
 								"localhost"
@@ -45,11 +45,11 @@
 							"port": "8080",
 							"path": [
 								"creditCard",
-								":issuer=all2"
+								":issuer=all3"
 							],
 							"variable": [
 								{
-									"key": "issuer=all2",
+									"key": "issuer=all3",
 									"value": null
 								}
 							]
